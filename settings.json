@@ -1,0 +1,50 @@
+{
+    "editor.fontLigatures": true,
+    "extensions.ignoreRecommendations": true,
+    "workbench.statusBar.visible": true,
+    "files.eol": "\n",
+    "explorer.confirmDelete": false,
+    "workbench.statusBar.feedback.visible": false,
+    "terminal.integrated.cursorStyle": "line",
+    "editor.cursorWidth": 2,
+    "editor.fontFamily": "Pragmata Pro, Consolas",
+    "terminal.integrated.shell.linux": "/usr/sbin/fish",
+    "editor.minimap.renderCharacters": false,
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.renderIndentGuides": false,
+    "editor.minimap.enabled": true,
+    "breadcrumbs.enabled": false,
+    "workbench.sideBar.location": "left",
+    "editor.detectIndentation": false,
+    "git.ignoreMissingGitWarning": true,
+    "files.associations": {
+        "*.c": "c",
+        "*.h": "c"
+    },
+    "debug.showInStatusBar": "never",
+    "files.exclude": {
+        "**/.idea": true
+    },
+    "window.zoomLevel": 1.5,
+    "workbench.startupEditor": "newUntitledFile",
+    "terminal.integrated.env.linux": {
+    },
+    "workbench.colorTheme": "Dracula",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python"
+},
+"workbench.editorAssociations": {
+    "*.ipynb": "jupyter-notebook"
+},
+"workbench.panel.defaultLocation": "right",
+"notebook.cellToolbarLocation": {
+    "default": "right",
+    "jupyter-notebook": "left"
+},
+"security.workspace.trust.enabled": false,
+"cmake.configureOnOpen": true,
+"terminal.integrated.tabs.enabled": false,
+"editor.suggestSelection": "first",
+"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+"C_Cpp.autocompleteAddParentheses": true
+}
