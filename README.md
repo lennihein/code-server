@@ -1,6 +1,8 @@
 # code-server
 ### VS Code ... in a browser ... in a docker container ...
 
+![](https://i.imgur.com/Wgk5dbv.png)
+
 --- 
 
 ## Installing via Dockerhub
