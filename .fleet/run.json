@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "docker-build",
+            "name": "Build Code-Server",
+            "file": "Dockerfile",
+        },
+
+    ]
+}
